@@ -45,3 +45,12 @@ def screenRecorder():
     cv2.destroyAllWindows()
 
 screenRecorder()
+```
+
+### ⚠️ Note
+
+Make sure to adjust the screen resolution (2560, 1600) in the script to match your own display for optimal recording.
+
+### 📄 License
+
+This project is licensed under the MIT License.
