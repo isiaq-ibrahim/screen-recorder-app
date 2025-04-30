@@ -1,6 +1,6 @@
 # 🖥️ Screen Recorder App - Python
 
-This repository contains the code for a simple yet powerful **Screen Recorder App** built using Python. The program captures your laptop screen in real-time and saves it as an `.avi` video file.
+This repository contains the code for my simple yet powerful **Screen Recorder App** I built using Python. The program captures my laptop screen in real-time and saves it as an `.avi` video file.
 
 ## 📌 Features
 
@@ -11,7 +11,7 @@ This repository contains the code for a simple yet powerful **Screen Recorder Ap
 
 ## 🛠️ Technologies Used
 
-- Python 3.x
+- Python 3.10.7
 - OpenCV (`cv2`)
 - Pillow (`PIL`)
 - NumPy
